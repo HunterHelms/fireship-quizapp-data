@@ -1,0 +1,8 @@
+quizzes:
+    -
+        description: 'Ship! Test your product on the public!'
+        id: launch-basics
+        title: 'Launch Basics'
+id: launch
+img: launch.png
+title: Launch

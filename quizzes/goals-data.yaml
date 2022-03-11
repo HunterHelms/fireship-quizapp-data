@@ -1,0 +1,22 @@
+description: "KPI stands for key performance indicator, a quantifiable measure of performance over time for a specific objective."
+topic: goals
+id: goals-data
+title: "Goals data"
+video: "https://youtu.be/lL6GdUHIBsM"
+questions:
+  - text: "What goal should a company focus? "
+    options:
+      - correct: true
+        value: Primary Metric
+      - correct: false
+        value: Increasing Users
+      - correct: false
+        value: Increasing Profit
+  - text: "Which is a good indicator of a primary metric?"
+    options:
+      - correct: false
+        value: Does it give insight into your competition?
+      - correct: false
+        value: Does it show number of users?
+      - correct: true
+        value: Does it represent delivery of real value?

@@ -1,0 +1,29 @@
+description: "A goal is an idea of the future or desired result that a company, plan and commit to achieve."
+topic: goals
+id: goals-company
+title: "Company Goals"
+questions:
+  - text: "Is increasing your market share a company goal?"
+    options:
+      - correct: true
+        value: "true"
+      - correct: false
+        value: "false"
+  - text: "Reducing employee turnover and increasing satisfaction is a company goal?"
+    options:
+      - correct: true
+        value: "true"
+      - correct: false
+        value: "false"
+  - text: "Decreasing profits is a company goal?"
+    options:
+      - correct: false
+        value: "true"
+      - correct: true
+        value: "false"
+  - text: "Selling a more reliable product would be a company goal?"
+    options:
+      - correct: true
+        value: "true"
+      - correct: false
+        value: "false"

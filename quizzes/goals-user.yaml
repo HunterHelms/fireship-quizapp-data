@@ -1,0 +1,29 @@
+title: User Goals
+id: goals-user
+topic: goals
+video: https://youtu.be/KWIo31l9RzY
+description: User Goals are descriptions of end states that users want to reach.
+questions:
+  - text: What is a good user goal?
+    options:
+      - correct: false
+        value: Finding a product on the site
+        detail: Finding isn't the users end goal
+      - correct: false
+        value: Signing up for your mailing list
+        detail: Not even close!
+      - correct: true
+        value: Getting into college
+        detail: Yes, this is a real goal that you might help someone achieve
+  - text: A user's goal is usually the same as the company goal?
+    options:
+      - correct: true
+        value: "false"
+      - correct: false
+        value: "true"
+  - text: Starting with your customer's goal is a common product strategy?
+    options:
+      - correct: true
+        value: "true"
+      - correct: false
+        value: "false"

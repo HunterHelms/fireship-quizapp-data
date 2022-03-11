@@ -1,0 +1,27 @@
+description: "A goal is an idea of the future or desired result that a person or a group of people envision, plan and commit to achieve."
+questions:
+  - text: "Which of these is not a critical factor in goals?"
+    options:
+      - detail: "No, that is critical."
+        correct: false
+        value: Objectives
+      - correct: true
+        value: Mockups
+        detail: "Not critical at this stage"
+      - detail: "No, this is critical at this stage."
+        correct: false
+        value: Key results
+  - text: "Which of these is a good OKR?"
+    options:
+      - correct: false
+        value: Increase logins
+      - correct: true
+        value: Lift Monthly Active User by 4% this quarter
+        detail: "Yes, this goal is very specific and actionable. "
+      - correct: false
+        value: Play less video games
+        detail: "C'mon... I think you know better!"
+topic: goals
+id: goals-basics
+title: Goal Basics
+# video: 'https://youtu.be/L4N1q4RNi9I'

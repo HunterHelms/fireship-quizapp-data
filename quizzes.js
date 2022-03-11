@@ -8,22 +8,19 @@ admin.initializeApp({
 const db = admin.firestore();
 
 const quizzes = [
-    'angular-basics',
-    'flutter-scroll',
-    'cf-basics',
-    'cf-triggers',
-    'firebase-perf',
-    'firestore-basics',
-    'flutter-basics',
-    'flutter-containers',
-    'flutter-flex',
-    'flutter-gestures',
-    'flutter-material',
-    'flutter-scroll',
-    'js-basics',
-    'js-variables',
-    'rxjs-basics',
-    'ts-basics'
+    'strategy-basics',
+    'strategy-canvas',
+    'collab-basics',
+    'collab-cross',
+    'launch-basics',
+    'yc-basics',
+    'goals-basics',
+    'goals-company',
+    'goals-product',
+    'history-basics',
+    'history-apple',
+    'user-basics',
+    'feedback-basics',
 ]
 
 

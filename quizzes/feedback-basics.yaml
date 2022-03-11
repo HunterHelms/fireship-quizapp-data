@@ -1,0 +1,17 @@
+description: "Feedback is information about reactions to a product, a performance of a task, etc. which is used as a basis for improvement."
+topic: feedback
+id: feedback-basics
+title: "Feedback Basics"
+questions:
+  - text: "Feedback can come from several channels"
+    options:
+      - correct: true
+        value: "true"
+      - correct: false
+        value: "false"
+  - text: "Feedback can help you set your product roadmap?"
+    options:
+      - correct: true
+        value: "true"
+      - correct: false
+        value: "false"

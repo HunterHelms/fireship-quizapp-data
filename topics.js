@@ -8,15 +8,14 @@ admin.initializeApp({
 const db = admin.firestore();
 
 const topics = [
-    'angular',
-    'flutter',
-    'cf',
-    'firebase',
-    'firestore',
-    'flutter',
-    'rxjs',
-    'js',
-    'ts'
+    'strategy',
+    'collab',
+    'launch',
+    'yc',
+    'goals',
+    'users',
+    'history',
+    'feedback'
 ]
 
 

@@ -1,0 +1,8 @@
+quizzes:
+    -
+        description: 'Do you know YC?'
+        id: yc
+        title: Basics
+id: yc-basics
+img: yc.png
+title: 'Y Combinator'

@@ -1,0 +1,33 @@
+title: Product Goals
+id: goals-product
+topic: goals
+video: https://youtu.be/Gm04s3wWWnM
+description: Product goals represent the crucial accomplishments needed to make your vision a reality.
+questions:
+  - text: Which goal is NOT a product goal?
+    options:
+      - correct: true
+        value: Increase headcount
+        detail: Bingo! A container is just for presentation.
+      - correct: false
+        value: Increase weekly active users
+        detail: Nope.
+      - correct: false
+        value: Decrease check out time
+        detail: noooo
+  - text: User goals and product goals usually are the same?
+    options:
+      - correct: true
+        value: "false"
+        detail: Correct!
+      - correct: false
+        value: "true"
+        detail: try again
+  - text: A good product goal might?
+    options:
+      - correct: false
+        value: "Make the product harder to use"
+        detail: This would be the opposite!
+      - correct: true
+        value: "Improve page load speed by 10%"
+        detail: You are smart!

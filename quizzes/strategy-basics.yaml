@@ -1,0 +1,24 @@
+id: strategy-basics
+title: "Strategy Basics"
+questions:
+  - text: "Product strategy is the process of?"
+    options:
+      - correct: false
+        value: "designing, developing and end-to-end testing of a product."
+        detail: "Nope, unfortunately that is not correct."
+      - correct: true
+        value: "defining what you want to achieve and how you plan to get there."
+        detail: "Nailed It!"
+      - correct: false
+        value: "identifying the right software, suppliers, and service providers."
+        detail: "Nope, not this one."
+  - text: "Who is responsible for the Product Strategy"
+    options:
+      - correct: true
+        value: "Product Manager"
+      - correct: false
+        value: "Lead Engineer"
+      - correct: false
+        value: "Design"
+description: "Product strategy is a high-level plan describing what a business hopes to accomplish with its product and how its plans to do it"
+topic: strategy

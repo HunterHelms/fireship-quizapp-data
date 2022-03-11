@@ -1,0 +1,39 @@
+description: "Let's take a look at how variables work in JavaScript"
+topic: history
+id: history-variables
+title: "Apple History"
+questions:
+  - text: "When did the iPhone come out?"
+    options:
+      - correct: true
+        value: "2007"
+      - correct: false
+        value: "2002"
+      - correct: false
+        value: "2008"
+  - text: "When was Apple formed?"
+    options:
+      - correct: true
+        value: "1976"
+      - correct: false
+        value: "2001"
+      - correct: false
+        value: "2004"
+  - text: "Who did NOT found Apple?"
+    options:
+      - correct: false
+        value: "Steve Jobs"
+      - correct: true
+        value: "Paul Allen"
+      - correct: false
+        value: "Steve Wozniak"
+  - text: "What was Apple's first product?"
+    options:
+      - correct: false
+        value: "iPod"
+        detail: "Nope"
+      - correct: true
+        value: "Apple I"
+      - detail: "Lol."
+        correct: false
+        value: "iPhone"

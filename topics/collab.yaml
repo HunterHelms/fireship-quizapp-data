@@ -1,0 +1,12 @@
+title: 'Collaboration'
+quizzes:
+    -
+        description: 'What is Collaboration?'
+        id: collab-basics
+        title: Basics
+    -
+        id: collab-cross
+        title: Collaboration
+        description: 'How do you handle different team members?'
+id: collab
+img: collab.png

@@ -1,0 +1,12 @@
+quizzes:
+    -
+        id: history-basics
+        title: Product History
+        description: 'What are tech products?'
+    -
+        description: 'Apple''s history!'
+        id: history-apples
+        title: Apple History
+id: history
+img: history.png
+title: History

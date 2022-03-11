@@ -1,0 +1,12 @@
+quizzes:
+    -
+        title: Basics
+        description: 'What is Strategy?'
+        id: strategy-basics
+    -
+        title: Strategy Canvas
+        description: 'Product Strategy Canvas'
+        id: strategy-canvas
+id: strategy
+img: strategy.png
+title: Strategy

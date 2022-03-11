@@ -1,0 +1,24 @@
+quizzes:
+    -
+        description: 'What are Goals?'
+        id: goals-basics
+        title: 'Basics'
+    -
+        description: 'Do you know what your company wants to accomplish?'
+        id: goals-company
+        title: 'Company Goals'
+    -
+        description: 'Do you know what your users want to accomplish?'
+        id: goals-user
+        title: 'User Goals'
+    -
+        description: 'Do you know what your product needs to accomplish?'
+        id: goals-product
+        title: 'Product Goals'
+    -
+        description: 'Test your knowledge of goal data.'
+        id: goals-data
+        title: 'Data'
+id: goals
+img: goals.png
+title: Goals

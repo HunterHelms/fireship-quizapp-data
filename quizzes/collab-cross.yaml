@@ -1,0 +1,29 @@
+id: collab-cross
+title: "Cross-functional collaboration"
+questions:
+  - text: "Which is NOT a valid collaboration tool?"
+    options:
+      - correct: true
+        value: excel
+      - correct: false
+        value: teams
+      - correct: false
+        value: slack
+  - text: "Which tool offers instant video conferencing?"
+    options:
+      - correct: false
+        value: Word
+      - correct: false
+        value: Xcode
+      - correct: true
+        value: Zoom
+  - text: "Who is in charge of a products timeline?"
+    options:
+      - correct: false
+        value: "Product Manager"
+      - correct: false
+        value: "Design Manager"
+      - correct: true
+        value: "Project Manager"
+description: "Cross-functional collaboration is the building block of any tech company."
+topic: collab

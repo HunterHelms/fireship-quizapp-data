@@ -1,0 +1,21 @@
+description: "A user is a person who utilizes a computer or network service."
+topic: users
+id: users-basics
+title: "User Basics"
+video: "https://youtu.be/T9ikpoF2GH0"
+questions:
+  - text: "A user often knows the exact solution for their problem?"
+    options:
+      - correct: false
+        value: "true"
+        detail: "Wrong, listen carefully not too closely."
+      - correct: true
+        value: "false"
+  - text: "How can a user help define the product?"
+    options:
+      - correct: true
+        value: Use the product and give feedback when they run into issues
+      - correct: false
+        value: download the app
+      - correct: false
+        value: describe specific features they want

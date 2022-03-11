@@ -1,0 +1,33 @@
+description: "Cross-functional collaboration to essential to working at tech company!"
+topic: collab
+id: collab-basics
+title: "Collaboration Basics"
+questions:
+  - text: "Who has authority in a product team?"
+    options:
+      - correct: false
+        value: "Product Manager"
+        detail: "No, the PM must influence without authority"
+      - correct: false
+        value: "Engineering Manager"
+        detail: "No, the EM only has authority over his direct reports not the other team members"
+      - correct: true
+        value: "No one"
+        detail: "The team must work together to come up with solutions that benefit the customer without authority over each other"
+  - text: "What is one thing you should not start a meeting without?"
+    options:
+      - correct: false
+        value: "powerpoint presentation"
+        detail: "Those are nice but not alway necessary"
+      - detail: "Right! An agenda insures a smooth meeting that doesn't get off track."
+        correct: true
+        value: "Agenda"
+      - detail: "A great treat to convince engineers to work on something but not needed"
+        correct: false
+        value: "Dough-nuts"
+  - text: "Should you schedule a meeting with an engineer before 9am?"
+    options:
+      - correct: true
+        value: "Never"
+      - correct: false
+        value: "Yes, they love coffee"

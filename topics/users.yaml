@@ -1,0 +1,8 @@
+quizzes:
+    -
+        description: 'Who do we speak for?'
+        id: user-basics
+        title: Basics
+id: users
+img: users.png
+title: Users

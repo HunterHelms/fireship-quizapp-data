@@ -1,0 +1,38 @@
+description: "Y Combinator is an American technology startup accelerator launched in March 2005. It has been used to launch more than 3,000 companies, including Stripe, Airbnb, Cruise, PagerDuty, DoorDash, Coinbase, Instacart, Dropbox, Twitch, Flightfox, and Reddit."
+topic: yc
+id: yc-basics
+title: "Y Combinator Basics"
+questions:
+  - text: "What year was YC founded?"
+    options:
+      - correct: false
+        value: "2008"
+        detail: "Close!"
+      - correct: false
+        value: "2002"
+        detail: "Close!"
+      - correct: true
+        value: "2005"
+        detail: "Bingo!"
+  - text: "Where was Y Combinator founded?"
+    options:
+      - correct: false
+        value: "Mountain View, CA"
+        detail: "That sounds more like cloud file storage"
+      - correct: true
+        value: "Cambridge, MA"
+        detail: Good Job!
+      - correct: false
+        value: "New York City, NY"
+        detail: "Nope, you must be thinking of Titan"
+  - text: "Which of these characters is Y Combinator known for?"
+    options:
+      - correct: false
+        value: "Tiger"
+        detail: "That sounds more like a different VC"
+      - correct: true
+        value: "Unicorns"
+        detail: Good Job!, YC is responsible for countless unicorn companies
+      - correct: false
+        value: "Dragon"
+        detail: "Nope!"

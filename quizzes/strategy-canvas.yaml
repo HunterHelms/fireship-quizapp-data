@@ -1,0 +1,30 @@
+description: "Test your knowledge of the Product Strategy Canvas"
+topic: strategy
+id: strategy-canvas
+title: "Product Strategy Canvas"
+questions:
+  - text: "Which of these is not on the Product Strategy Canvas"
+    options:
+      - correct: true
+        value: "Feature Prioritization"
+        detail: "Yes, feature prioritization will come much later in the product lifecycle."
+      - correct: false
+        value: "Customer Outcome"
+        detail: "No, this is a key part!"
+      - correct: false
+        value: "Hypothesis"
+        detail: "Nope, this is a key part!"
+  - text: "What is a popular Strategy Canvas tool?"
+    options:
+      - correct: true
+        value: "Miro"
+      - correct: false
+        value: "Outlook"
+      - correct: false
+        value: "Skype"
+  - text: "Should a Strategy Canvas include Key Results?"
+    options:
+      - correct: false
+        value: "No"
+      - correct: true
+        value: "Yes"

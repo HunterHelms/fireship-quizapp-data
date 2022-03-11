@@ -1,0 +1,37 @@
+questions:
+  - text: "Which online tool is a must for tech launches?"
+    options:
+      - detail: "Awesome work!"
+        correct: true
+        value: Product Hunt
+      - correct: false
+        value: QVC
+        detail: "Nope, that's not it!"
+      - correct: false
+        value: Gmail
+        detail: "Close, but no cigar!"
+  - text: "When should you launch?"
+    options:
+      - correct: true
+        value: "When you have a working MVP"
+        detail: "Correct, use this data to help shape the future of the product. "
+      - correct: false
+        value: "When your product is perfect for users!"
+      - correct: false
+        value: "Third Friday of the month."
+  - text: "What type of data are you looking for at launch?"
+    options:
+      - detail: "Downloads"
+        correct: false
+        value: "Look beyond the initial numbers."
+      - correct: true
+        value: "Average time spent"
+        detail: "Good job, you should be monitoring how your users are using your product and why they stopped."
+      - correct: false
+        value: "page views"
+        detail: "Just a number, we can find more."
+topic: launch
+id: launch-basics
+title: "Test your knowledge of launching basics"
+description: "to a business's planned and coordinated effort to debut a new product to the market and make that product generally available."
+# video: 'https://youtu.be/4o7Shzg344g'
